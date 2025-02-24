@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@cmdcolin/minimalpackage@^7.0.0":
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/@cmdcolin/minimalpackage/-/minimalpackage-7.0.0.tgz#0f5b1b96cf287fe1fa3f54c96ac63f213b9aecc6"
-  integrity sha512-r5W/rtBgKUcRF8aH5WuBL4BTHc3Qa2QG9adkHklRqThTjzZfSpM2gPQRJ6LtpETUhI80xnIsW03uDIYRUHWp3w==
+"@cmdcolin/minimalpackage@^10.0.0":
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/@cmdcolin/minimalpackage/-/minimalpackage-10.0.0.tgz#f8c0d1c409d0c9511d999500531f357b38d25014"
+  integrity sha512-ZvLK+Xs6pF5qluEiOyOQQmIgHdIPx4Iet6kmR/3d9miRIhSn56RBCFGBold9f0a67O6WaP8+ATPfZkjIcUXhBg==
 
 "@isaacs/cliui@^8.0.2":
   version "8.0.2"
