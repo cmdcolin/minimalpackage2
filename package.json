@@ -21,7 +21,7 @@
     "typescript": "^5.7.3"
   },
   "dependencies": {
-    "@cmdcolin/minimalpackage": "^6.0.0"
+    "@cmdcolin/minimalpackage": "^7.0.0"
   },
   "publishConfig": {
     "access": "public"
